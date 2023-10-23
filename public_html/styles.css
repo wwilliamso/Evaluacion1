@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 20-10-2023, 23:10:22
+    Author     : Lenovo
+*/
+header {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    
+}
+footer {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
